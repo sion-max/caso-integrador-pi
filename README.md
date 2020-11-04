@@ -1,2 +1,2 @@
 # caso-integrador-pi
-Es una pagina de prueba creada para desarrollar competencia
+Es una pagina de prueba creada para desarrollar competencias
